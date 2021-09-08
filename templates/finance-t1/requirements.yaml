@@ -1,0 +1,4 @@
+dependencies:
+- name: finance-t1
+  version: 0.0.1
+  repository: https://artifactory-tools.workshop-ocp46-three-bb0dafd08526894d1a8ae848e8bd8099-0000.eu-gb.containers.appdomain.cloud/artifactory/generic-local/workshop-team-three/
